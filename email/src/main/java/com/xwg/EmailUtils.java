@@ -22,6 +22,7 @@ public class EmailUtils {
         new EmailUtils();
         new EmailUtils(47);
 
+
         System.err.println(new EmailUtils().j);
         System.err.println(new EmailUtils().email.getI());
         System.err.println(new EmailUtils(47).j);
